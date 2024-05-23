@@ -1,1 +1,3 @@
-cambiar
+<<<<<<< HEAD
+Ejecicio2.2
+>>>>>>> 35e1e71 (confirmando los cambios)
